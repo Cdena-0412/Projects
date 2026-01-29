@@ -33,4 +33,4 @@ View the real-time price, market cap, price change, and volume of the selected c
 
 View the historical price trend over the last 30 days.
 
-Enjoy tracking your favorite cryptocurrencies! 🚀
+
