@@ -1,4 +1,4 @@
-# Cryptocurrency Price Tracker 📊💰
+# Cryptocurrency Price Tracker
 
 This is a simple Streamlit app that allows users to track real-time cryptocurrency prices, including the current price, market cap, 24-hour price change, and trading volume.
 
